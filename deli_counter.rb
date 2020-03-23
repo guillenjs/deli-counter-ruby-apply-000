@@ -29,4 +29,5 @@ def take_a_number
   counter = 1
   line << counter
   counter += 1
+  puts "Welcome you are number #{counter}"
 end
