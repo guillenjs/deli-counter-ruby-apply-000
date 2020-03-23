@@ -25,4 +25,7 @@
 # end
 
 def take_a_number
+  line = []
+  counter = 0
+  counter += 1
 end
