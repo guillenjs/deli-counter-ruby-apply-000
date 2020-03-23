@@ -23,11 +23,11 @@
 #   katz_deli.shift
 # end
 # end
+line = []
 
-def take_a_number
-  line = []
+def take_a_number(line)
   counter = 0
-  line << counter
   counter += 1
+  line << counter
   puts "Welcome you are number #{counter}"
 end
