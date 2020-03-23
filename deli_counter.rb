@@ -26,7 +26,7 @@
 
 def take_a_number
   line = []
-  counter = 1
+  counter = 0
   line << counter
   counter += 1
   puts "Welcome you are number #{counter}"
