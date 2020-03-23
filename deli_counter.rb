@@ -27,7 +27,7 @@ line = []
 counter = 0
 
 def take_a_number(line)
-  counter += 1
+  $counter += 1
   line << counter
   puts "Welcome you are number #{counter}"
 end
